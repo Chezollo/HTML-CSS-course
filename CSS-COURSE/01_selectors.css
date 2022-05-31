@@ -1,0 +1,36 @@
+/* Tag name */
+body {
+    background: rgb(255, 153, 20);
+}
+
+/* Class */
+.card {
+    padding: 10px;
+    background: rgb(255, 246, 246);
+    /* margin-bottom: 26px; */
+}
+
+.card p {
+    font-size: 16px;
+}
+
+.html {
+    background: #ef7e15;
+    color: white;
+}
+
+.css {
+    background: #264de4;
+    color: white;
+}
+
+/* Id */
+#header {
+    background: eee;
+    padding: 10px;
+    border: 3px solid red;
+}
+
+#header, .card {
+    margin-bottom: 10px;
+}

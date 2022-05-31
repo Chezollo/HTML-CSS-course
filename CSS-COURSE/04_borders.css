@@ -1,0 +1,31 @@
+.border-1 {
+    /* border-width: 2px; */
+    /* border-style: solid; */
+    /* border-color: darkred; */
+
+    border: 3.4px solid rgb(24, 42, 204);
+    /* border-style: dashed; */
+    border-radius: 5px;
+}
+
+.circle {
+    /* width: 100px;
+    height: 100px;
+    background: rgb(255, 93, 93);
+    border-radius: 20%; */
+}
+
+/* bottom, top, right, left */
+.border-2 {
+    border-bottom: 2px solid darkblue;
+    border-right: 6px solid green;
+
+    border-bottom-right-radius: 20px;
+}
+
+.border-3 {
+    border-left: 6px solid red;
+    background: lightsalmon;
+    padding-left: 10px;
+    color: #fff;
+}
